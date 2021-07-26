@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# task-tracker-angular
-=======
+
 # AngularTutorial
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.3.
@@ -12,4 +10,4 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
->>>>>>> b2a93d6b0bbc654235ed0068dc868f07a1a82819
+
